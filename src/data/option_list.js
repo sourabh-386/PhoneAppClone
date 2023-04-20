@@ -1,0 +1,22 @@
+export const List = [
+    'Daily Needs',
+    'Education',
+    'Construction',
+    'Housing Maintenance & Reparing',
+    'Consultancy',
+    'Courier',
+    'Dance & Music',
+    'Health',
+    'Event Management',
+    'Books & Stationery',
+    'Daily Needs',
+    'Education',
+    'Construction',
+    'Housing Maintenance & Reparing',
+    'Consultancy',
+    'Courier',
+    'Dance & Music',
+    'Health',
+    'Event Management',
+    'Books & Stationery'
+]
