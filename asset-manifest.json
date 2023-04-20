@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PhoneAppClone/static/css/main.6c6ac3dd.css",
+    "main.js": "/PhoneAppClone/static/js/main.a7321164.js",
+    "static/media/ask.png": "/PhoneAppClone/static/media/ask.56e5236680d72b0b37ec.png",
+    "static/media/logo.jpg": "/PhoneAppClone/static/media/logo.110643277e25454ff2ae.jpg",
+    "index.html": "/PhoneAppClone/index.html",
+    "main.6c6ac3dd.css.map": "/PhoneAppClone/static/css/main.6c6ac3dd.css.map",
+    "main.a7321164.js.map": "/PhoneAppClone/static/js/main.a7321164.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c6ac3dd.css",
+    "static/js/main.a7321164.js"
+  ]
+}
